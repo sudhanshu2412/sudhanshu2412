@@ -1,9 +1,11 @@
+
+![logo]("C:/Users/KIIT/Downloads/Sudhanshu.png")
 <h1 align="center">Hi 👋, I'm Sudhanshu Saurav</h1>
 <h3 align="center">A passionate Java developer from India</h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu2412&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu2412" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudhanshu2412" alt="sudhanshu2412" /></a> </p>
 
 - 🔭 I’m currently working on **Java Project**
 
@@ -32,3 +34,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhanshu2412&show_icons=true&locale=en&layout=compact" alt="sudhanshu2412" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudhanshu2412&show_icons=true&locale=en" alt="sudhanshu2412" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu2412&" alt="sudhanshu2412" /></p>
+
+
